@@ -23,16 +23,16 @@
 
 ### 📊 Estatísticas do GitHub
 
-<!-- Container para alinhar lado a lado -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <!-- Card de estatísticas do GitHub -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" alt="GitHub Stats" style="max-width:100%; height:auto;"/>
-
-  <!-- Card de linguagens -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Top Langs" style="max-width:100%; height:auto;"/>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
