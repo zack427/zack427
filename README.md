@@ -23,38 +23,14 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
+<!-- Container para alinhar lado a lado -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=zack427&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=zack427&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=zack427&show_icons=true&theme=dark" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zack427&layout=compact&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zack427&layout=compact"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack427&layout=compact&theme=dark" />
-      </picture>
-    </td>
-  </tr>
-</table>
+  <!-- Card de estatísticas do GitHub -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" alt="GitHub Stats" style="max-width:100%; height:auto;"/>
+
+  <!-- Card de linguagens -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Top Langs" style="max-width:100%; height:auto;"/>
 
 </div>
 
