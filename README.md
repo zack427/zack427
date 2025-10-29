@@ -1,6 +1,6 @@
   <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=600&color=811632&center=true&vCenter=true&width=500&lines=Seja+bem-vindo+;Eu+me+chamo+Isaac+Alemida+de+Moraes;Desenvolvedor+Front-End+;Apaixonado+por+tecnologia+e+inovacao.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=600&color=001eff&center=true&vCenter=true&width=500&lines=Seja+bem-vindo+;Eu+me+chamo+Isaac+Alemida+de+Moraes;Desenvolvedor+Front-End+;Apaixonado+por+tecnologia+e+inovacao.">
   </a>
 </p>
 
