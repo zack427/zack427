@@ -25,11 +25,14 @@
 
 <table>
   <tr>
+    <!-- Card de GitHub Stats -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" alt="GitHub Stats" />
     </td>
+
+    <!-- Card de Top Linguagens -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
