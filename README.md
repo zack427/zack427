@@ -67,31 +67,13 @@
 
 <div align="center">
 
-  <!-- Estatísticas gerais -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true" height="180">
-  </picture>
-
-  <!-- Linguagens -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" height="180">
-  </picture>
+  <!-- STATS -->
+  <a href="https://github.com/zack427">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zack427&theme=github" />
+  </a>
+  <a href="https://github.com/zack427">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zack427&theme=github" />
+  </a>
 
 </div>
 
